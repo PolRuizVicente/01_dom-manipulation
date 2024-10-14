@@ -76,3 +76,4 @@ if (button && content) {
 if (input) {
     input.placeholder = 'Enter your name';
 }
+//*completed the script.js file
